@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.8029e2327e4fd5b85e75960be391a9be?rik=iA%2fDpIpkhwYsQQ&riu=http%3a%2f%2fblackrainbow.la%2fassets%2fimages%2fprojects%2ftesla%2fbg.jpg&ehk=q9OulRUjaHO%2bCmAetc3HpmQUGBoM9iVw%2bIjXt3IMALE%3d&risl=&pid=ImgRaw&r=0);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+
+}
+.centered {
+    text-align: center;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.displayed-name {
+    margin-bottom: 20px;
+}
+h1{
+    font: 30px bolder;
+    font-family: Arial;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    border: 2px solid black;
+    background-color: grey;
+    color: white;
+    border-radius: 8px;
+
+}
+h3{
+    background-color: white;
+    text-align: left;
+    font-family: Arial;
+}
+h4{
+    background-color: white;
+    text-align: left;
+    font-family: Arial;
+}
+.center h4{
+     background-color: white;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+table, th, td {
+    border: 1px solid white; 
+    padding: 8px;
+}
+
+table th {
+    background-color: black;
+    color: white;
+}
+
